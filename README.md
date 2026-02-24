@@ -47,3 +47,6 @@ Using both **text and visuals** for better understanding.
   - Simple interactive interface
   - Real-time multimodal output
 
+<p align="center">
+  <img src="demo-ui.jpeg" width="900"/>
+</p>
