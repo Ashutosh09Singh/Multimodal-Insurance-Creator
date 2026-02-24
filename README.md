@@ -47,5 +47,3 @@ Using both **text and visuals** for better understanding.
   - Simple interactive interface
   - Real-time multimodal output
 
-
-## 🏗️ Architecture
